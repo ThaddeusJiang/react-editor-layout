@@ -1,8 +1,10 @@
 # React Editor Layout
 
+# Migrated to [Omakase UI](https://github.com/ThaddeusJiang/omakase-ui)
+
 ## features
 
-- [ ]
+- [x] VSCode style Editor Layout
 
 ## Preview
 
